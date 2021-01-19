@@ -26,4 +26,12 @@
   <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/JS.svg">&nbsp;
   <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Heroku.svg">&nbsp;
   <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Npm.svg">&nbsp;
+  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Vscode.svg">&nbsp;
+  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/figma-1.png" alt="">&nbsp;
+  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/firefox-browser-developer-edition.png" alt="">&nbsp;
+  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/html-5.png" alt="">&nbsp;
+  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/inkscape-flat-logo-2color-text.png" alt="">&nbsp;
+  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/ionic-logo-svgrepo-com.png" alt="">&nbsp;
+  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/netlify.png" alt="">&nbsp;
+  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/python.png" alt="">&nbsp;
 </p>
