@@ -19,3 +19,9 @@
 <h4><a href="https://github.com/Techy-Coder/Tic-Tac-Toe">Javascript tic-tac-toe</a></h4>
 <h4><a href="https://github.com/Techy-Coder/Tic-Tac-Toe-with-AI">Javascript tic-tac-toe with ai using minmax algorithm</a></h4>
 <h4><a href="https://github.com/Techy-Coder/Volcano-and-population-webmap">Python webmap showing population and volcanoes of the world</a></h4>
+<h3 align="center">⚙ Technologies and softwares I use ⚙</h3>
+<p align="center">
+<img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/CSS.svg">&nbsp;
+<img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Github.svg">
+  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/JS.svg">
+</p>
