@@ -25,5 +25,4 @@
 <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Github.svg">&nbsp;
   <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/JS.svg">&nbsp;
   <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Heroku.svg">&nbsp;
-  <img src=https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Npm.svg">
 </p>
