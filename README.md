@@ -22,6 +22,8 @@
 <h3 align="center">⚙ Technologies and softwares I use ⚙</h3>
 <p align="center">
 <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/CSS.svg">&nbsp;
-<img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Github.svg">
-  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/JS.svg">
+<img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Github.svg">&nbsp;
+  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/JS.svg">&nbsp;
+  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Heroku.svg">&nbsp;
+  <img src=https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Npm.svg">
 </p>
