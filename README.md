@@ -36,3 +36,17 @@
   <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/netlify.png" alt="">&nbsp;
   <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/python.png" alt="">&nbsp;
 </p>
+<h3 align="center">My activity</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Techy-Coder&theme=dracula&area=true" alt="" width="100%">
+</p>
+<h3 align="center">Github stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Techy-Coder&theme=dracula" alt="" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techy-Coder&hide=html&theme=dracula" alt="" align=center>
+</p>
+<h3 align="center">Top repos</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Techy-Coder&repo=Volcano-and-popupalaation-webmap&theme=dracula" alt="" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Techy-Coder&repo=Tic-Tac-Toe-with-AI&theme=dracula" alt="" align="center">
+</p>
