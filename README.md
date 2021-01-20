@@ -1,53 +1,25 @@
-<h1>Hi there <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="50px"> glad to see you</h1>
-<h1>This is Nishanth a.k.a Techy-Coder</h1>
-<h2>About me</h2>
-<img align="right" src="https://github.com/Techy-Coder/Techy-Coder/blob/main/overview.gif"  width="500">
-<h3>Hello there there this is Nishanth, A fullstack web developer, an app developer and more. You can see what I am learning and what are my works below. I love to code in python. but now I am an intermediate python developer 😅. I also love javascript but currently learning vanilla JS. In future I want to learn React JS and Vue JS. You can connect with me via discord. My username is @Techy-Coder#9247. I would love to hear from you.</h3>
-<h3>📖 I'm currently learning : 📖</h3>
-<h4>Javascript from <a href ="https://www.udemy.com/share/101WfeBUAYdFlXTHo=/">Jonas Schmedtman</a></h4>
-<h4>HTML and CSS from <a href ="https://www.udemy.com/share/101WtcBUAYdFlXTHo=/">Jonas Schmedtman</a></h4>
-<h4>Python from <a href ="https://www.udemy.com/share/101Wa0BUAYdFlXTHo=/">Ardit Sulce</a></a></h4>
-<h4>Flutter from <a href ="https://www.udemy.com/share/101WB6BUAYdFlXTHo=/">Angela Yu</a></a></h4>
-<h3>💻 My projects : 💻</h3>
-<h4><a href="https://caclulator-by-nishanth.netlify.app/">Javascript calculator app</a></h4>
-<h4><a href="https://todo-list-by-nishanth.netlify.app/">Javascript todo-list app</a></h4>
-<h4><a href="https://tic-tac-toe-by-nishanth.netlify.app/">Javascript tic-tac-toe</a></h4>
-<h4><a href="https://ai-tic-tac-toe.netlify.app/">Javascript tic-tac-toe with ai using minmax algorithm</a></h4>
-<h4><a href="https://volcanoes-and-population-webmap.netlify.app/">Python webmap showing population and volcanoes of the world</a></h4>
-<h3>📁 My projects' source code : 📁</h3>
-<h4><a href="https://github.com/Techy-Coder/calculator">Javascript calculator app</a></h4>
-<h4><a href="https://github.com/Techy-Coder/Todo-list">Javascript todo-list app</a></h4>
-<h4><a href="https://github.com/Techy-Coder/Tic-Tac-Toe">Javascript tic-tac-toe</a></h4>
-<h4><a href="https://github.com/Techy-Coder/Tic-Tac-Toe-with-AI">Javascript tic-tac-toe with ai using minmax algorithm</a></h4>
-<h4><a href="https://github.com/Techy-Coder/Volcano-and-population-webmap">Python webmap showing population and volcanoes of the world</a></h4>
-<h3 align="center">⚙ Technologies and softwares I use ⚙</h3>
-<p align="center">
-<img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/CSS.svg">&nbsp;
-<img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Github.svg">&nbsp;
-  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/JS.svg">&nbsp;
-  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Heroku.svg">&nbsp;
-  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Npm.svg">&nbsp;
-  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/Vscode.svg">&nbsp;
-  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/figma-1.png" alt="">&nbsp;
-  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/firefox-browser-developer-edition.png" alt="">&nbsp;
-  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/html-5.png" alt="">&nbsp;
-  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/inkscape-flat-logo-2color-text.png" alt="">&nbsp;
-  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/ionic-logo-svgrepo-com.png" alt="">&nbsp;
-  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/netlify.png" alt="">&nbsp;
-  <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/python.png" alt="">&nbsp;
-</p>
-<h3 align="center">My activity</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Techy-Coder&theme=dracula&area=true" alt="" width="100%">
-</p>
-<h3 align="center">Github stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.techy-coder.vercel.app/api?username=Techy-Coder&theme=dracula" alt="" align="center">
-  <img src="https://github-readme-stats.techy-coder.vercel.app/api/top-langs/?username=Techy-Coder&hide=html&theme=dracula" alt="" align=center>
-</p>
-<h3 align="center">Top repos</h3>
-<p align="center">
-  <a href="https://github.com/Techy-Coder/Volcano-and-population-webmap">
-  <img src="https://github-readme-stats.techy-coder.vercel.app/api/pin/?username=Techy-Coder&repo=Volcano-and-population-webmap&theme=dracula" alt="" align="center"></a>
-  <a href="https://github.com/Techy-Coder/Tic-Tac-Toe-with-AI"><img src="https://github-readme-stats.techy-coder.vercel.app/api/pin/?username=Techy-Coder&repo=Tic-Tac-Toe-with-AI&theme=dracula" alt="" align="center"></a>
-</p>
+<h1 align="center">Hi 👋, I'm Nishanth</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=techy-coder&label=Profile%20views&color=0e75b6&style=flat" alt="techy-coder" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techy-coder" alt="techy-coder" /></a> </p>
+
+- 🔭 I’m currently working on **Vscode**
+
+- 👨‍💻 All of my projects are available at [hi](hi)
+
+- 📫 How to reach me **example**
+
+- 📄 Know about my experiences [hello](hello)
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techy-coder&show_icons=true&locale=en&layout=compact" alt="techy-coder" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techy-coder&show_icons=true&locale=en" alt="techy-coder" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techy-coder&" alt="techy-coder" /></p>
+
