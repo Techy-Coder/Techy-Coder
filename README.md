@@ -2,7 +2,7 @@
 <h1>This is Nishanth a.k.a Techy-Coder</h1>
 <h2>About me</h2>
 <img align="right" src="https://github.com/Techy-Coder/Techy-Coder/blob/main/overview.gif"  width="500">
-<h3>Hello there there this is Nishanth, A fullstack web developer, an app developer and more. You can see what I am learning and what are my works below. I love to code in python. but now I am an intermediate python developer 😅. You can connect with me via discord. My username is @Techy-Coder#9247. I would love to hear from you.</h3>
+<h3>Hello there there this is Nishanth, A fullstack web developer, an app developer and more. You can see what I am learning and what are my works below. I love to code in python. but now I am an intermediate python developer 😅. I also love javascript but currently learning vanilla JS. In future I want to learn React JS and Vue JS. You can connect with me via discord. My username is @Techy-Coder#9247. I would love to hear from you.</h3>
 <h3>📖 I'm currently learning : 📖</h3>
 <h4>Javascript from <a href ="https://www.udemy.com/share/101WfeBUAYdFlXTHo=/">Jonas Schmedtman</a></h4>
 <h4>HTML and CSS from <a href ="https://www.udemy.com/share/101WtcBUAYdFlXTHo=/">Jonas Schmedtman</a></h4>
