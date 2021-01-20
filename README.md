@@ -47,6 +47,7 @@
 </p>
 <h3 align="center">Top repos</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Techy-Coder&repo=Volcano-and-population-webmap&theme=dracula" alt="" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Techy-Coder&repo=Tic-Tac-Toe-with-AI&theme=dracula" alt="" align="center">
+  <a href="https://github.com/Techy-Coder/Volcano-and-population-webmap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Techy-Coder&repo=Volcano-and-population-webmap&theme=dracula" alt="" align="center"></a>
+  <a href="https://github.com/Techy-Coder/Tic-Tac-Toe-with-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Techy-Coder&repo=Tic-Tac-Toe-with-AI&theme=dracula" alt="" align="center"></a>
 </p>
