@@ -46,10 +46,6 @@
   <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/netlify.png" alt="">&nbsp;
   <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/python.png" alt="">&nbsp;
 </p>
-<h3 align="center">My activity</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Techy-Coder&theme=dracula&area=true" alt="" width="100%">
-</p>
 <h3 align="center">Github stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Techy-Coder&theme=dracula" alt="" align="center">
