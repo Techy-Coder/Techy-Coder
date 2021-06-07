@@ -14,6 +14,18 @@
 <h4><a href="https://tic-tac-toe-by-nishanth.netlify.app/">Javascript tic-tac-toe</a></h4>
 <h4><a href="https://ai-tic-tac-toe.netlify.app/">Javascript tic-tac-toe with ai using minmax algorithm</a></h4>
 <h4><a href="https://volcanoes-and-population-webmap.netlify.app/">Python webmap showing population and volcanoes of the world</a></h4>
+<h4><a href="https://github.com/Techy-Coder/Python-notepad-clone">Python notepad clone</a></h4>
+<h4><a href="https://github.com/Techy-Coder/Python-calculator-app">Python calculator GUI</a></h4>
+<h4><a href="https://github.com/Techy-Coder/TIc-Tac-Toe-with-python">Tic-tac-toe with python GUI</a></h4>
+<h4><a href="https://github.com/Techy-Coder/Zoom-automation-bot-python">Zoom automation bot with python</a></h4>
+<h4><a href="https://github.com/Techy-Coder/Python-dictonary">Console based python dictionary</a></h4>
+<h4><a href="https://github.com/Techy-Coder/Python-notepad-clone">Python notepad clone</a></h4>
+<h4><a href="https://github.com/Techy-Coder/Python-calculator-app">Python calculator GUI</a></h4>
+<h4><a href="https://github.com/Techy-Coder/TIc-Tac-Toe-with-python">Tic-tac-toe with python GUI</a></h4>
+<h4><a href="https://github.com/Techy-Coder/Zoom-automation-bot-python">Zoom automation bot with python</a></h4>
+<h4><a href="https://github.com/Techy-Coder/Python-dictonary">Console based python dictionary</a></h4>
+<h4><a href="https://github.com/Techy-Coder/Python-dice-rolling-simulator">Console based python dice rolling simulator</a></h4>
+<h4><a href="https://github.com/Techy-Coder/Python-rock-paper-scissors">Console based python rock paper scissors game</a></h4>
 <h3>📁 My projects' source code : 📁</h3>
 <h4><a href="https://github.com/Techy-Coder/calculator">Javascript calculator app</a></h4>
 <h4><a href="https://github.com/Techy-Coder/Todo-list">Javascript todo-list app</a></h4>
@@ -30,6 +42,8 @@
 <h4><a href="https://github.com/Techy-Coder/TIc-Tac-Toe-with-python">Tic-tac-toe with python GUI</a></h4>
 <h4><a href="https://github.com/Techy-Coder/Zoom-automation-bot-python">Zoom automation bot with python</a></h4>
 <h4><a href="https://github.com/Techy-Coder/Python-dictonary">Console based python dictionary</a></h4>
+<h4><a href="https://github.com/Techy-Coder/Python-dice-rolling-simulator">Console based python dice rolling simulator</a></h4>
+<h4><a href="https://github.com/Techy-Coder/Python-rock-paper-scissors">Console based python rock paper scissors game</a></h4>
 <h3 align="center">⚙ Technologies and softwares I use ⚙</h3>
 <p align="center">
 <img src="https://github.com/Techy-Coder/Techy-Coder/blob/main/icons/CSS.svg">&nbsp;
