@@ -1,4 +1,4 @@
-<h1>Hi there <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="50px"> glad to see you</h1>
+<h1>Hi there <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" height="50px"> glad to see you</h1>
 <h1>This is Nishanth a.k.a Techy-Coder</h1>
 <h2>About me</h2>
 <img align="right" src="https://github.com/Techy-Coder/Techy-Coder/blob/main/overview.gif"  width="500">
